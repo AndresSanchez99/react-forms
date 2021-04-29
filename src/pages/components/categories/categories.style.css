@@ -1,0 +1,17 @@
+.categories-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    margin-top: 2px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    text-align: left;
+    font-style: oblique;
+    font-size: small;
+    font-weight: 600;
+    color: gray;
+}
+span {
+    text-align: left;
+    white-space: 700;
+}

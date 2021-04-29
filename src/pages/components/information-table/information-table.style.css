@@ -1,0 +1,50 @@
+.information-table-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 750px;
+    border: 0.5px solid rgb(135, 143, 135);
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    font-style: oblique;
+    
+}
+.style-table {
+    text-align: center;
+    width: 100%;
+    min-height: 500px;
+    margin-block-end: 10px;
+}
+.rowone {
+    width: 700px;
+    margin: 0 auto;
+    min-height: 500px;
+    border: 0.5px solid rgb(135, 143, 135);
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    text-align: center;
+    margin-block-end: 10px;
+}
+form {
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 15px;
+    text-align: center;
+    
+
+    display: inline-block;
+
+    text-align: center;
+
+}
+.rowtwo {
+    width: 700px;
+    margin: 0 auto;
+    min-height: 1500px;
+    border: 0.5px solid rgb(135, 143, 135);
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    margin-block-end: 10px;
+}
